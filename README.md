@@ -3,13 +3,16 @@ Empathize
 _____________________
 Personas
 _____________________
-Shane(myself)
+Shane(Student)
+Shane is a studnet of the university of Charleston West Virginia. They have numerous assignments at one time and need to get them done. Unfortunatly, Shane is easily distracted and needs an app to keep focus/
 
 Observations
 
-  •	I frequently need to get on to assignments and studying for classes
+  •	Shane requently need to get on to assignments and studying for classes
   
-  •	While attempting to perform my goal I frequently get distracted and stop to do something else.
+  •	While attempting to perform my goal Shane frequently get distracted and stop to do something else.
+  
+  • While doing something else forgets about the assignment until much later. 
 
 Problem
 ______________________
@@ -27,4 +30,5 @@ ____________________________
 Metrics
 ___________________________
 • Does Shane remember to turn the app on before beginning to study.
+
 • Does the app help keep Shane off of distractions keep himself focused.
