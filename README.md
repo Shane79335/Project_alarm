@@ -25,10 +25,10 @@ Building an android app that periodically reminds the user of any assignments th
 Prototype 
 _____________________________
 
+
 Test
 ____________________________
 Metrics
 ___________________________
 • Does Shane remember to turn the app on before beginning to study.
 
-• Does the app help keep Shane off of distractions keep himself focused.
