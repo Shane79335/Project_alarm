@@ -24,6 +24,8 @@ Building an android app that periodically reminds the user of any assignments th
 
 Prototype 
 _____________________________
+![App idea](https://user-images.githubusercontent.com/97458484/159840838-ad1400a7-c653-40ab-a2c2-48ece14cefc8.png)
+![app ideas settings](https://user-images.githubusercontent.com/97458484/159840840-9d2007da-62de-43d9-a8d3-aa667e1144f5.png)
 
 
 Test
